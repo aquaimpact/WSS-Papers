@@ -1,0 +1,13 @@
+userId,skillIdFK,passwd,name,userTypeIdFK
+aaaa1111,1,leo1,  Leon,2
+  bbbb1111,2,bri1,Brian,2
+cccc1111,3,jae1,  Jane,2
+dddd1111,4,marcu1,Marcus,2
+aaaa2222,1,geo2,George,3
+  aaaa3333,1,lac2,Lacy,3
+bbbb2222,2,fla2, Flark,3
+bbbb3333,2,ring2,Ringo,3
+cccc2222,3,harv2, Harvey,3
+  cccc3333,3,sar2,Sarah,3
+dddd2222,4,eva2,Evans,3
+dddd3333,4,cla2,Clark,3
